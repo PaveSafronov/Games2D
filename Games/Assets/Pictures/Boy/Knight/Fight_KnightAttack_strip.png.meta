@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 475122c3ef7ee75408281089fdcf30f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5381185698364048818
+    second: noBKG_KnightAttack_strip_0
+  - first:
+      213: -965597167978221739
+    second: noBKG_KnightAttack_strip_1
+  - first:
+      213: 3677309656472779560
+    second: noBKG_KnightAttack_strip_2
+  - first:
+      213: 5535098253766989748
+    second: noBKG_KnightAttack_strip_3
+  - first:
+      213: -1114361952848332187
+    second: noBKG_KnightAttack_strip_4
+  - first:
+      213: -179205153412916004
+    second: noBKG_KnightAttack_strip_5
+  - first:
+      213: 581458955971611472
+    second: noBKG_KnightAttack_strip_6
+  - first:
+      213: 6966399872453029562
+    second: noBKG_KnightAttack_strip_7
+  - first:
+      213: -4170038434227489042
+    second: noBKG_KnightAttack_strip_8
+  - first:
+      213: 8614604880703192744
+    second: noBKG_KnightAttack_strip_9
+  - first:
+      213: -929618521593421475
+    second: noBKG_KnightAttack_strip_10
+  - first:
+      213: 8653731138667395602
+    second: noBKG_KnightAttack_strip_11
+  - first:
+      213: 4271437787165959228
+    second: noBKG_KnightAttack_strip_12
+  - first:
+      213: 4491015213611792361
+    second: noBKG_KnightAttack_strip_13
+  - first:
+      213: 8802670899565179918
+    second: noBKG_KnightAttack_strip_14
+  - first:
+      213: 9105042247985506767
+    second: noBKG_KnightAttack_strip_15
+  - first:
+      213: -1007734104045187293
+    second: noBKG_KnightAttack_strip_16
+  - first:
+      213: -5738732351321630392
+    second: noBKG_KnightAttack_strip_17
+  - first:
+      213: -7385383936912414730
+    second: noBKG_KnightAttack_strip_18
+  - first:
+      213: -6809855809462306521
+    second: noBKG_KnightAttack_strip_19
+  - first:
+      213: 3764243156535926766
+    second: noBKG_KnightAttack_strip_20
+  - first:
+      213: 3216345194512978731
+    second: noBKG_KnightAttack_strip_21
+  - first:
+      213: -6045158441601739778
+    second: Fight_KnightAttack_strip_0
+  - first:
+      213: -7817199394530279134
+    second: Fight_KnightAttack_strip_1
+  - first:
+      213: -9126875686072179067
+    second: Fight_KnightAttack_strip_2
+  - first:
+      213: 3762620079981072023
+    second: Fight_KnightAttack_strip_3
+  - first:
+      213: 2681326082018825078
+    second: Fight_KnightAttack_strip_4
+  - first:
+      213: 5866473026419590160
+    second: Fight_KnightAttack_strip_5
+  - first:
+      213: 8396469890735092439
+    second: Fight_KnightAttack_strip_6
+  - first:
+      213: -6606429988228737
+    second: Fight_KnightAttack_strip_7
+  - first:
+      213: 126042591866038734
+    second: Fight_KnightAttack_strip_8
+  - first:
+      213: 462789409084197626
+    second: Fight_KnightAttack_strip_9
+  - first:
+      213: 1531002746922459397
+    second: Fight_KnightAttack_strip_10
+  - first:
+      213: -3203295983595454227
+    second: Fight_KnightAttack_strip_11
+  - first:
+      213: 4239070589782996783
+    second: Fight_KnightAttack_strip_12
+  - first:
+      213: 69063447798366028
+    second: Fight_KnightAttack_strip_13
+  - first:
+      213: -191810645819579485
+    second: Fight_KnightAttack_strip_14
+  - first:
+      213: 4550319370100109877
+    second: Fight_KnightAttack_strip_15
+  - first:
+      213: -7830514802980795032
+    second: Fight_KnightAttack_strip_16
+  - first:
+      213: 4888633655221253030
+    second: Fight_KnightAttack_strip_17
+  - first:
+      213: -8665601484929621752
+    second: Fight_KnightAttack_strip_18
+  - first:
+      213: -6332344229009201315
+    second: Fight_KnightAttack_strip_19
+  - first:
+      213: -7279947684662538262
+    second: Fight_KnightAttack_strip_20
+  - first:
+      213: 7380482081229011823
+    second: Fight_KnightAttack_strip_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3df5d0d684b1ca0800000000000000
+      internalID: -6045158441601739778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221cf96619ab38390800000000000000
+      internalID: -7817199394530279134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a4867be2d65180800000000000000
+      internalID: -9126875686072179067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 19
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e060c0703873430800000000000000
+      internalID: 3762620079981072023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 19
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d8b58ddbf53520800000000000000
+      internalID: 2681326082018825078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 19
+        width: 54
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148628b226e96150800000000000000
+      internalID: 5866473026419590160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 19
+        width: 44
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2378411e0468470800000000000000
+      internalID: 8396469890735092439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 19
+        width: 49
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717157ac7788eff0800000000000000
+      internalID: -6606429988228737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 19
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9aebac11bcfb100800000000000000
+      internalID: 126042591866038734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_9
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 19
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac64ef3882c6600800000000000000
+      internalID: 462789409084197626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_10
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 19
+        width: 54
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e57003e63f3510800000000000000
+      internalID: 1531002746922459397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 19
+        width: 50
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08b53564b9b83d0800000000000000
+      internalID: -3203295983595454227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_12
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 19
+        width: 50
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2732d9ed3434da30800000000000000
+      internalID: 4239070589782996783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 19
+        width: 42
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f3cf007dc55f000800000000000000
+      internalID: 69063447798366028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_14
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 19
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a329cfdb3d865df0800000000000000
+      internalID: -191810645819579485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_15
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 19
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327565cb5bf52f30800000000000000
+      internalID: 4550319370100109877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_16
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 19
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d44e7464c645390800000000000000
+      internalID: -7830514802980795032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_17
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 19
+        width: 80
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a37b78886ae7d340800000000000000
+      internalID: 4888633655221253030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_18
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 19
+        width: 58
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012cad9c599db780800000000000000
+      internalID: -8665601484929621752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_19
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 19
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576962597efe18a0800000000000000
+      internalID: -6332344229009201315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_20
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 19
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0340d62e68fa90800000000000000
+      internalID: -7279947684662538262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_KnightAttack_strip_21
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 19
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b7ac2795dbc6660800000000000000
+      internalID: 7380482081229011823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
